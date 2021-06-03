@@ -21,5 +21,3 @@ As the bussiness is booming, App service will not be a suitable solution followi
 - App Service has a limit of CPUs and memory allocated, I will chose VM to have more compute and memory option for scalabilty.
 - Having apps with different dependencies and language, webapp is not suitable for this, hence Vms will be  good fit for these kind of workloads.
 - Vms are good and easier for testing our different apps compared to webapps that have language and runtime constraints.
-
-[Live cms on azure App Service](https://projectcms.azurewebsites.net) 
